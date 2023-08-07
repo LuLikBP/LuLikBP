@@ -1,8 +1,5 @@
 
-🌱
-🌱
 
-🤔🤔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLikBP&layout=compact)](https://github.com/LuLikBP/github-readme-stats)
 
 
