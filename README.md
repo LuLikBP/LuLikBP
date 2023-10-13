@@ -13,5 +13,9 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true)
+
 <!--
+
 **LuLikBP/LuLikBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
