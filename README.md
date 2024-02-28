@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=24F760&multiline=true&width=500&height=140&lines=Hi!+I+am+an+embedded+developer+;i+love+robotics+and+cofee+;Ready+for+open+source+projects🐜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=24F760&multiline=true&width=500&height=140&lines=Hi!+I+am+an+embedded+developer+;i+love+robotics+and+coffee+;Ready+for+open+source+projects🐜)](https://git.io/typing-svg)
 
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
